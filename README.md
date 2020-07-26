@@ -42,7 +42,7 @@ OK, Anda sudah memastikan bahwa virtualization bisa berjalan di komputer. Kini i
 ####  •Ini Adalah Tampilan Aplikasi Setelah Di Run Pada Emulator Ada <br>
 ![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(234).png) <br>
 **____________________________________________________________________________________________** <br>
-# Untuk Pengaturan Konfiurasi HP Cukup Hidupkan Mode Debugging USB (Selengkapnya Cek Modul)
+## Untuk Pengaturan Konfiurasi HP Cukup Hidupkan Mode Debugging USB (Selengkapnya Cek Modul)
 
   
 

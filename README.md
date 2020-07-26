@@ -22,7 +22,8 @@ HAXM diperlukan jika sistem operasi yang Anda gunakan adalah Windows atau Mac. U
 4.	Cari berkas installer-nya di directory folder sdk komputer Anda,
 ~sdk\extras\intel\Hardware_Accelerated_Execution_Manager\intelhaxm-android.exe. <br>
 5.	Jalankan installer dan ikuti petunjuknya sampai selesai. <br>
-
+![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(235).png) <br>
+![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(236).png) <br>
 #### Menggunakan Emulator <br>
 OK, Anda sudah memastikan bahwa virtualization bisa berjalan di komputer. Kini ikuti langkah-langkah berikut untuk menjalankan aplikasi dengan menggunakan emulator built-in dari Android Studio. <br>
 
@@ -30,10 +31,19 @@ OK, Anda sudah memastikan bahwa virtualization bisa berjalan di komputer. Kini i
 ![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(228).png) <br>
 ##### •Pilihlah Sesuai Spesifikasi Emulator Yang Anda Inginkan <br>
 ![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(229).png) <br>
-##### •Pilihlah Versi Android Yang Sesuai Dengan Device HandPhone Anda , Kemudian Tunggu Download Hingga Selesai , Sabar Bro<br>
+##### •Pilihlah Versi Android Yang Sesuai Dengan Device HandPhone Anda , Kemudian Tunggu Download Hingga Selesai , Sabar Bro <br>
 ![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(230).png) <br>
 ##### •Atur Emulator Anda Sesuai Keinginan Anda Serta Berikan Nama Pada Emulator Anda, Apabila Anda Ingin Mengatur Lebih Dalam Klik Advanced Settings <br>
 ![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(231).png) <br>
+####  •Jika Sudah Klik Finish Dan Run Dengan Cara Menekan Tombol Play Hiau Bagian Kanan <br>
+![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(232).png) <br>
+####  •ntuk Menjalankanya Kita Bisa Klik Gambar HandPhone Kita Kemudian Pilih Emulator Yang Ingin Anda Gunakan <br>
+![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(233).png) <br>
+####  •Ini Adalah Tampilan Aplikasi Setelah Di Run Pada Emulator Ada <br>
+![Alt Text](https://github.com/adam033/Run-Emulator/blob/master/Screenshot%20(234).png) <br>
+**____________________________________________________________________________________________** <br>
+# Untuk Pengaturan Konfiurasi HP Cukup Hidupkan Mode Debugging USB (Selengkapnya Cek Modul)
+
   
 
 

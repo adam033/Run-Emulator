@@ -26,7 +26,9 @@ HAXM diperlukan jika sistem operasi yang Anda gunakan adalah Windows atau Mac. U
 #### Menggunakan Emulator <br>
 OK, Anda sudah memastikan bahwa virtualization bisa berjalan di komputer. Kini ikuti langkah-langkah berikut untuk menjalankan aplikasi dengan menggunakan emulator built-in dari Android Studio. <br>
 
-##### Membuat Virtual Device 
+##### Membuat Virtual Device <br>
+
+
 
 
 
